@@ -1,0 +1,398 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\ProiectMaria\\WebApplication8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88DB4D03-DBFB-4A7A-886F-B9C7936B3643}|WebApplication8\\WebApplication8.csproj|c:\\users\\lenovo\\desktop\\proiectmaria\\webapplication8\\webapplication8\\controllers\\capitolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88DB4D03-DBFB-4A7A-886F-B9C7936B3643}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\controllers\\capitolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88DB4D03-DBFB-4A7A-886F-B9C7936B3643}|WebApplication8\\WebApplication8.csproj|c:\\users\\lenovo\\desktop\\proiectmaria\\webapplication8\\webapplication8\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88DB4D03-DBFB-4A7A-886F-B9C7936B3643}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88DB4D03-DBFB-4A7A-886F-B9C7936B3643}|WebApplication8\\WebApplication8.csproj|c:\\users\\lenovo\\desktop\\proiectmaria\\webapplication8\\webapplication8\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88DB4D03-DBFB-4A7A-886F-B9C7936B3643}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88DB4D03-DBFB-4A7A-886F-B9C7936B3643}|WebApplication8\\WebApplication8.csproj|c:\\users\\lenovo\\desktop\\proiectmaria\\webapplication8\\webapplication8\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88DB4D03-DBFB-4A7A-886F-B9C7936B3643}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88DB4D03-DBFB-4A7A-886F-B9C7936B3643}|WebApplication8\\WebApplication8.csproj|c:\\users\\lenovo\\desktop\\proiectmaria\\webapplication8\\webapplication8\\controllers\\rezultatquizzcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88DB4D03-DBFB-4A7A-886F-B9C7936B3643}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\controllers\\rezultatquizzcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88DB4D03-DBFB-4A7A-886F-B9C7936B3643}|WebApplication8\\WebApplication8.csproj|c:\\users\\lenovo\\desktop\\proiectmaria\\webapplication8\\webapplication8\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88DB4D03-DBFB-4A7A-886F-B9C7936B3643}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88DB4D03-DBFB-4A7A-886F-B9C7936B3643}|WebApplication8\\WebApplication8.csproj|c:\\users\\lenovo\\desktop\\proiectmaria\\webapplication8\\webapplication8\\controllers\\istoricrezultatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88DB4D03-DBFB-4A7A-886F-B9C7936B3643}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\controllers\\istoricrezultatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88DB4D03-DBFB-4A7A-886F-B9C7936B3643}|WebApplication8\\WebApplication8.csproj|c:\\users\\lenovo\\desktop\\proiectmaria\\webapplication8\\webapplication8\\controllers\\intrebaricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88DB4D03-DBFB-4A7A-886F-B9C7936B3643}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\controllers\\intrebaricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88DB4D03-DBFB-4A7A-886F-B9C7936B3643}|WebApplication8\\WebApplication8.csproj|c:\\users\\lenovo\\desktop\\proiectmaria\\webapplication8\\webapplication8\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88DB4D03-DBFB-4A7A-886F-B9C7936B3643}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88DB4D03-DBFB-4A7A-886F-B9C7936B3643}|WebApplication8\\WebApplication8.csproj|c:\\users\\lenovo\\desktop\\proiectmaria\\webapplication8\\webapplication8\\myoperationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88DB4D03-DBFB-4A7A-886F-B9C7936B3643}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\myoperationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88DB4D03-DBFB-4A7A-886F-B9C7936B3643}|WebApplication8\\WebApplication8.csproj|c:\\users\\lenovo\\desktop\\proiectmaria\\webapplication8\\webapplication8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88DB4D03-DBFB-4A7A-886F-B9C7936B3643}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88DB4D03-DBFB-4A7A-886F-B9C7936B3643}|WebApplication8\\WebApplication8.csproj|c:\\users\\lenovo\\desktop\\proiectmaria\\webapplication8\\webapplication8\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{88DB4D03-DBFB-4A7A-886F-B9C7936B3643}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88DB4D03-DBFB-4A7A-886F-B9C7936B3643}|WebApplication8\\WebApplication8.csproj|c:\\users\\lenovo\\desktop\\proiectmaria\\webapplication8\\webapplication8\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{88DB4D03-DBFB-4A7A-886F-B9C7936B3643}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88DB4D03-DBFB-4A7A-886F-B9C7936B3643}|WebApplication8\\WebApplication8.csproj|c:\\users\\lenovo\\desktop\\proiectmaria\\webapplication8\\webapplication8\\controllers\\utilizatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88DB4D03-DBFB-4A7A-886F-B9C7936B3643}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\controllers\\utilizatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88DB4D03-DBFB-4A7A-886F-B9C7936B3643}|WebApplication8\\WebApplication8.csproj|c:\\users\\lenovo\\desktop\\proiectmaria\\webapplication8\\webapplication8\\models\\utilizator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88DB4D03-DBFB-4A7A-886F-B9C7936B3643}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\models\\utilizator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88DB4D03-DBFB-4A7A-886F-B9C7936B3643}|WebApplication8\\WebApplication8.csproj|c:\\users\\lenovo\\desktop\\proiectmaria\\webapplication8\\webapplication8\\models\\rezultatquizz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88DB4D03-DBFB-4A7A-886F-B9C7936B3643}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\models\\rezultatquizz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88DB4D03-DBFB-4A7A-886F-B9C7936B3643}|WebApplication8\\WebApplication8.csproj|c:\\users\\lenovo\\desktop\\proiectmaria\\webapplication8\\webapplication8\\models\\capitolinvatare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88DB4D03-DBFB-4A7A-886F-B9C7936B3643}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\models\\capitolinvatare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88DB4D03-DBFB-4A7A-886F-B9C7936B3643}|WebApplication8\\WebApplication8.csproj|c:\\users\\lenovo\\desktop\\proiectmaria\\webapplication8\\webapplication8\\models\\intrebariquizz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88DB4D03-DBFB-4A7A-886F-B9C7936B3643}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\models\\intrebariquizz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88DB4D03-DBFB-4A7A-886F-B9C7936B3643}|WebApplication8\\WebApplication8.csproj|c:\\users\\lenovo\\desktop\\proiectmaria\\webapplication8\\webapplication8\\models\\istoricrezultate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88DB4D03-DBFB-4A7A-886F-B9C7936B3643}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\models\\istoricrezultate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88DB4D03-DBFB-4A7A-886F-B9C7936B3643}|WebApplication8\\WebApplication8.csproj|c:\\users\\lenovo\\desktop\\proiectmaria\\webapplication8\\webapplication8\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88DB4D03-DBFB-4A7A-886F-B9C7936B3643}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88DB4D03-DBFB-4A7A-886F-B9C7936B3643}|WebApplication8\\WebApplication8.csproj|c:\\users\\lenovo\\desktop\\proiectmaria\\webapplication8\\webapplication8\\migrations\\20240401194738_v3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88DB4D03-DBFB-4A7A-886F-B9C7936B3643}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\migrations\\20240401194738_v3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88DB4D03-DBFB-4A7A-886F-B9C7936B3643}|WebApplication8\\WebApplication8.csproj|c:\\users\\lenovo\\desktop\\proiectmaria\\webapplication8\\webapplication8\\migrations\\20240401192154_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88DB4D03-DBFB-4A7A-886F-B9C7936B3643}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\migrations\\20240401192154_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88DB4D03-DBFB-4A7A-886F-B9C7936B3643}|WebApplication8\\WebApplication8.csproj|c:\\users\\lenovo\\desktop\\proiectmaria\\webapplication8\\webapplication8\\webapplication8.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{88DB4D03-DBFB-4A7A-886F-B9C7936B3643}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\webapplication8.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ProiectMaria\\WebApplication8\\WebApplication8\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ProiectMaria\\WebApplication8\\WebApplication8\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "WebApplication8\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T11:59:57.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ProiectMaria\\WebApplication8\\WebApplication8\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ProiectMaria\\WebApplication8\\WebApplication8\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "WebApplication8\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T15:31:51.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IstoricRezultateController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ProiectMaria\\WebApplication8\\WebApplication8\\Controllers\\IstoricRezultateController.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Controllers\\IstoricRezultateController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ProiectMaria\\WebApplication8\\WebApplication8\\Controllers\\IstoricRezultateController.cs",
+              "RelativeToolTip": "WebApplication8\\Controllers\\IstoricRezultateController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T16:28:31.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ProiectMaria\\WebApplication8\\WebApplication8\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Controllers\\TodoController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ProiectMaria\\WebApplication8\\WebApplication8\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "WebApplication8\\Controllers\\TodoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T11:45:46.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RezultatQuizzController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ProiectMaria\\WebApplication8\\WebApplication8\\Controllers\\RezultatQuizzController.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Controllers\\RezultatQuizzController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ProiectMaria\\WebApplication8\\WebApplication8\\Controllers\\RezultatQuizzController.cs",
+              "RelativeToolTip": "WebApplication8\\Controllers\\RezultatQuizzController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T16:29:14.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ProiectMaria\\WebApplication8\\WebApplication8\\Startup.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Startup.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ProiectMaria\\WebApplication8\\WebApplication8\\Startup.cs",
+              "RelativeToolTip": "WebApplication8\\Startup.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAuwEkAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T18:16:17.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CapitoleController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ProiectMaria\\WebApplication8\\WebApplication8\\Controllers\\CapitoleController.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Controllers\\CapitoleController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ProiectMaria\\WebApplication8\\WebApplication8\\Controllers\\CapitoleController.cs*",
+              "RelativeToolTip": "WebApplication8\\Controllers\\CapitoleController.cs*",
+              "ViewState": "AQIAADwAAAAAAAAAAAAowEIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T15:31:51.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IntrebariController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ProiectMaria\\WebApplication8\\WebApplication8\\Controllers\\IntrebariController.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Controllers\\IntrebariController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ProiectMaria\\WebApplication8\\WebApplication8\\Controllers\\IntrebariController.cs",
+              "RelativeToolTip": "WebApplication8\\Controllers\\IntrebariController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAGYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T16:28:19.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ProiectMaria\\WebApplication8\\WebApplication8\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ProiectMaria\\WebApplication8\\WebApplication8\\Program.cs",
+              "RelativeToolTip": "WebApplication8\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAQwCQAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T15:02:54.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ProiectMaria\\WebApplication8\\WebApplication8\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication8\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ProiectMaria\\WebApplication8\\WebApplication8\\appsettings.json",
+              "RelativeToolTip": "WebApplication8\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-17T18:16:43.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UtilizatorController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ProiectMaria\\WebApplication8\\WebApplication8\\Controllers\\UtilizatorController.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Controllers\\UtilizatorController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ProiectMaria\\WebApplication8\\WebApplication8\\Controllers\\UtilizatorController.cs",
+              "RelativeToolTip": "WebApplication8\\Controllers\\UtilizatorController.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T16:29:56.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ProiectMaria\\WebApplication8\\WebApplication8\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApplication8\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ProiectMaria\\WebApplication8\\WebApplication8\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApplication8\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-19T11:34:55.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MyOperationFilter.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ProiectMaria\\WebApplication8\\WebApplication8\\MyOperationFilter.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\MyOperationFilter.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ProiectMaria\\WebApplication8\\WebApplication8\\MyOperationFilter.cs",
+              "RelativeToolTip": "WebApplication8\\MyOperationFilter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T20:42:33.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ProiectMaria\\WebApplication8\\WebApplication8\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ProiectMaria\\WebApplication8\\WebApplication8\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "WebApplication8\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T20:26:31.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Utilizator.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ProiectMaria\\WebApplication8\\WebApplication8\\Models\\Utilizator.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Models\\Utilizator.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ProiectMaria\\WebApplication8\\WebApplication8\\Models\\Utilizator.cs",
+              "RelativeToolTip": "WebApplication8\\Models\\Utilizator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T16:38:22.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RezultatQuizz.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ProiectMaria\\WebApplication8\\WebApplication8\\Models\\RezultatQuizz.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Models\\RezultatQuizz.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ProiectMaria\\WebApplication8\\WebApplication8\\Models\\RezultatQuizz.cs",
+              "RelativeToolTip": "WebApplication8\\Models\\RezultatQuizz.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T16:38:20.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CapitolInvatare.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ProiectMaria\\WebApplication8\\WebApplication8\\Models\\CapitolInvatare.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Models\\CapitolInvatare.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ProiectMaria\\WebApplication8\\WebApplication8\\Models\\CapitolInvatare.cs",
+              "RelativeToolTip": "WebApplication8\\Models\\CapitolInvatare.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T16:38:10.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IntrebariQuizz.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ProiectMaria\\WebApplication8\\WebApplication8\\Models\\IntrebariQuizz.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Models\\IntrebariQuizz.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ProiectMaria\\WebApplication8\\WebApplication8\\Models\\IntrebariQuizz.cs",
+              "RelativeToolTip": "WebApplication8\\Models\\IntrebariQuizz.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T16:38:12.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IstoricRezultate.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ProiectMaria\\WebApplication8\\WebApplication8\\Models\\IstoricRezultate.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Models\\IstoricRezultate.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ProiectMaria\\WebApplication8\\WebApplication8\\Models\\IstoricRezultate.cs",
+              "RelativeToolTip": "WebApplication8\\Models\\IstoricRezultate.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T16:38:14.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ProiectMaria\\WebApplication8\\WebApplication8\\Models\\Todo.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Models\\Todo.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ProiectMaria\\WebApplication8\\WebApplication8\\Models\\Todo.cs",
+              "RelativeToolTip": "WebApplication8\\Models\\Todo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T15:47:42.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240401194738_V3.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ProiectMaria\\WebApplication8\\WebApplication8\\Migrations\\20240401194738_V3.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Migrations\\20240401194738_V3.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ProiectMaria\\WebApplication8\\WebApplication8\\Migrations\\20240401194738_V3.cs",
+              "RelativeToolTip": "WebApplication8\\Migrations\\20240401194738_V3.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAQwJsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T16:41:07.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20240401192154_V2.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ProiectMaria\\WebApplication8\\WebApplication8\\Migrations\\20240401192154_V2.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Migrations\\20240401192154_V2.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ProiectMaria\\WebApplication8\\WebApplication8\\Migrations\\20240401192154_V2.cs",
+              "RelativeToolTip": "WebApplication8\\Migrations\\20240401192154_V2.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAQwAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T20:26:48.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "WebApplication8.http",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ProiectMaria\\WebApplication8\\WebApplication8\\WebApplication8.http",
+              "RelativeDocumentMoniker": "WebApplication8\\WebApplication8.http",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ProiectMaria\\WebApplication8\\WebApplication8\\WebApplication8.http",
+              "RelativeToolTip": "WebApplication8\\WebApplication8.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-04-17T18:31:09.602Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
